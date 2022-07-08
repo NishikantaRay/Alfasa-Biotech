@@ -437,7 +437,7 @@ html.mm-opened.mm-dragging #mm-blocker {
 .mm-menu.mm-hasfooter > .mm-panel:after {
   height: 80px; }
 
-.mm-menu .mm-footer {
+.mm-menu . {
   border-color: rgba(0, 0, 0, 0.15);
   color: rgba(255, 255, 255, 0.78);
   font-size:14px;

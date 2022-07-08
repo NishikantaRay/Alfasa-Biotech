@@ -9,11 +9,11 @@ $("#menu").mmenu({
 },
 "footer": {
 "add": true,
-"title": "Copyrights 2015 Medical Guide. all rights reserved."
+"title": "Copyrights 2022 Alfasa Biotech. all rights reserved."
 },
 
 "header": {
-"title": "Medical Guide",
+"title": "Alfasa Biotech",
 "add": true,
 "update": true
 },
